@@ -1,6 +1,6 @@
-<h3>ARe you lucky<h3>
+<h3>Are you lucky<h3>
 
-#This project is built by using HTML5, CSS3 and JS.
+## This project is built by using HTML5, CSS3 and JS.
 
 
 
